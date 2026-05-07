@@ -39,7 +39,6 @@ exports.check = ({ company = {}, roles: globalRoles = [] }, resources, action) =
     }
 
     const permit = Object.keys(allowedResources[resources]).find(e => e.includes(action));
-
     if (permit) {
       const value = permit.split(':');
 
