@@ -43,7 +43,14 @@
     "count": "Results: {{count}}",
     "filter": "Filter",
     "home": "Home",
-    "new": "Nuovo",
+    "entries": "Entries",
+    "income": "Income",
+    "expense": "Expense",
+    "amount": "Amount",
+    "date": "Date",
+    "newEntry": "New entry",
+    "editEntry": "Edit entry",
+    "new": "New",
     "ok": "Ok"
   },
   "login": {
